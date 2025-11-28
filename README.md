@@ -1,2 +1,2 @@
 # new project
-this project ceated for local system
+this project ceated for local system.
